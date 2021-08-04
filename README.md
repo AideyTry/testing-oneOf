@@ -14,3 +14,5 @@ yarn start
 if use build->webpack.common.js  add oneOf code is error.
 if use build->webpack.common.js  no oneOf code is correct.
 ```
+### error show
+![error show](docs/error.jpg)
